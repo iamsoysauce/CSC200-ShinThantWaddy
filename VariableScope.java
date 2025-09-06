@@ -3,9 +3,8 @@
   Program Title : Demonstrating Variable Scope in Java
   File Name: "VariableScope.java"
   
-  Programmer : Sathish Sarma
-  Contact Details : sathish.sarma@newinti.edu.my
-  Date : 04 September 2025
+  Programmer : Shin Thant Waddy
+  Date : 06 September 2025
   
  **********************************************************************/
 
@@ -52,4 +51,5 @@ public class VariableScope {
         
         System.out.println("The program is incomplete. Refer to the source code and update the code accordingly based on the instructions provided in the comments throughout the program.");
     }
+
 }
