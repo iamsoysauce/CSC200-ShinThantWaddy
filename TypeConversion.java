@@ -3,9 +3,8 @@
   Program Title : Demonstrating Type Conversion in Java
   File Name: "TypeConversion.java"
   
-  Programmer : Sathish Sarma
-  Contact Details : sathish.sarma@newinti.edu.my
-  Date : 04 September 2025
+  Programmer : Shin Thant Waddy
+  Date : 07 September 2025
   
  **********************************************************************/
  
@@ -49,4 +48,5 @@ public class TypeConversion {
         System.out.println("Converted to char: " + convertedChar);
         System.out.println("Size of char: " + Character.BYTES + " bytes.");
     }
+
 }
